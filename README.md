@@ -1,16 +1,57 @@
-<<<<<<< HEAD
-# React + Vite
+📅 iScheduler
+iScheduler is a sleek and responsive task management app built with React, Vite, and TailwindCSS. Stay organized with intuitive features like priority tagging, task filtering, and completion tracking — all with seamless local storage support.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Features
+➕ Add, edit, and delete tasks effortlessly
 
-Currently, two official plugins are available:
+🚦 Assign priority levels — Low, Medium, High
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔍 Search tasks dynamically by name
 
-## Expanding the ESLint configuration
+✅ Toggle & track completed tasks
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# iScheduler
->>>>>>> d6cee53e0f2385969fb48a418f3accbca074a2da
+👁️ Show/Hide completed tasks
+
+💾 Persistent storage via localStorage — your tasks never disappear
+
+🛠️ Tech Stack
+Frontend: React, TailwindCSS
+
+Build Tool: Vite
+
+Icons: React Icons
+
+Unique IDs: UUID
+
+🚀 Getting Started
+📋 Prerequisites
+Ensure you have Node.js installed (v14+ recommended). You can check with:
+
+bash
+Copy
+Edit
+node -v
+npm -v
+📦 Installation
+bash
+Copy
+Edit
+# Clone the repository
+git clone https://github.com/arshdhillon8560/iScheduler.git
+
+# Navigate into the project directory
+cd iScheduler/TO-DO
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+
+📄 License
+This project is licensed under the MIT License.
+See the LICENSE file for more details.
+
+🙌 Acknowledgments
+Crafted with ❤️ by Arsh Dhillon
+Powered by the synergy of React, Vite, and TailwindCSS
