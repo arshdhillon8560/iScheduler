@@ -1,4 +1,5 @@
 ### 📅 iScheduler
+https://i-scheduler.vercel.app/
 
 **iScheduler** is a sleek and responsive task management app built with **React**, **Vite**, and **TailwindCSS**. Stay organized with intuitive features like priority tagging, task filtering, and completion tracking — all with seamless local storage support.
 
