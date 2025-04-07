@@ -1,37 +1,39 @@
-📅 iScheduler
-iScheduler is a sleek and responsive task management app built with React, Vite, and TailwindCSS. Stay organized with intuitive features like priority tagging, task filtering, and completion tracking — all with seamless local storage support.
+### 📅 iScheduler
 
-✨ Features
-➕ Add, edit, and delete tasks effortlessly
+**iScheduler** is a sleek and responsive task management app built with **React**, **Vite**, and **TailwindCSS**. Stay organized with intuitive features like priority tagging, task filtering, and completion tracking — all with seamless local storage support.
 
-🚦 Assign priority levels — Low, Medium, High
+---
 
-🔍 Search tasks dynamically by name
+## ✨ Features
 
-✅ Toggle & track completed tasks
+- ➕ **Add, edit, and delete tasks** effortlessly  
+- 🚦 **Assign priority levels** — Low, Medium, High  
+- 🔍 **Search tasks dynamically** by name  
+- ✅ **Toggle & track** completed tasks  
+- 👁️ **Show/Hide** completed tasks  
+- 💾 **Persistent storage via localStorage** — your tasks never disappear  
 
-👁️ Show/Hide completed tasks
+---
 
-💾 Persistent storage via localStorage — your tasks never disappear
+## 🛠️ Tech Stack
 
-🛠️ Tech Stack
-Frontend: React, TailwindCSS
+- **Frontend:** React, TailwindCSS  
+- **Build Tool:** Vite  
+- **Icons:** React Icons  
+- **Unique IDs:** UUID  
 
-Build Tool: Vite
+---
 
-Icons: React Icons
+## 🚀 Getting Started
 
-Unique IDs: UUID
+### 📋 Prerequisites
 
-🚀 Getting Started
-📋 Prerequisites
-Ensure you have Node.js installed (v14+ recommended). You can check with:
+Make sure you have **Node.js (v14 or higher)** installed. Check with:
 
-bash
-Copy
-Edit
+```bash
 node -v
 npm -v
+
 📦 Installation
 bash
 Copy
@@ -48,10 +50,10 @@ npm install
 # Start the development server
 npm run dev
 
-📄 License
+#📄 License
 This project is licensed under the MIT License.
 See the LICENSE file for more details.
 
-🙌 Acknowledgments
+#🙌 Acknowledgments
 Crafted with ❤️ by Arsh Dhillon
-Powered by the synergy of React, Vite, and TailwindCSS
+Powered by the synergy of React, Vite, and TailwindCSS to make it beautiful.
